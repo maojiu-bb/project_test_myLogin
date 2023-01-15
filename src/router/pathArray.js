@@ -1,0 +1,1 @@
+export default ['/home', '/home/userInfos', '/home/courses', '/home/fineWorks', '/home/settings']
